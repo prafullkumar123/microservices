@@ -1,0 +1,686 @@
+src/main/java/com/javafuns/epizy/JavafunsFinalprojectApplication.java:11:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/JavafunsFinalprojectApplication.java:11:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/JavafunsFinalprojectApplication.java:11:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/javafuns/epizy/JavafunsFinalprojectApplication.java:11:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/javafuns/epizy/JavafunsFinalprojectApplication.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/JavafunsFinalprojectApplication.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/JavafunsFinalprojectApplication.java:18:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/JavafunsFinalprojectApplication.java:18:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/ServletInitializer.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/ServletInitializer.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/ServletInitializer.java:6:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/ServletInitializer.java:6:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/ServletInitializer.java:9:	MethodArgumentCouldBeFinal: Parameter 'application' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/ServletInitializer.java:9:	MethodArgumentCouldBeFinal: Parameter 'application' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/config/AppConfig.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/config/AppConfig.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/config/AppConfig.java:8:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/config/AppConfig.java:8:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/config/AppConfig.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/config/AppConfig.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:21:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:21:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:23:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:23:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:23:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:23:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:23:	LongVariable: Avoid excessively long variable names like userDetailsService
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:23:	LongVariable: Avoid excessively long variable names like userDetailsService
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:26:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:26:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:29:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:29:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:32:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:32:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:32:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:32:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:32:	LongVariable: Avoid excessively long variable names like authenticationEntryPoint
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:32:	LongVariable: Avoid excessively long variable names like authenticationEntryPoint
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:42:	MethodArgumentCouldBeFinal: Parameter 'auth' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:42:	MethodArgumentCouldBeFinal: Parameter 'auth' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:47:	MethodArgumentCouldBeFinal: Parameter 'http' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:47:	MethodArgumentCouldBeFinal: Parameter 'http' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/config/SecurityConfig.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:29:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:29:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:29:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:29:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:32:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:32:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:32:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:32:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:35:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:35:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:35:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:35:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:40:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:40:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:43:	MethodArgumentCouldBeFinal: Parameter 'userReg' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:43:	MethodArgumentCouldBeFinal: Parameter 'userReg' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:43:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:43:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:44:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '44'-'51').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:44:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '44'-'51').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:45:	LocalVariableCouldBeFinal: Local variable 'validator' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:45:	LocalVariableCouldBeFinal: Local variable 'validator' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:48:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:48:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:49:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:49:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:49:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:49:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:50:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:50:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:51:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'msg' (lines '51'-'58').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:51:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'msg' (lines '51'-'58').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:54:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:54:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:56:	LocalVariableCouldBeFinal: Local variable 'userRegResp' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:56:	LocalVariableCouldBeFinal: Local variable 'userRegResp' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:57:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'userRegResp'
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:57:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'userRegResp'
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:67:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:67:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:67:	MethodArgumentCouldBeFinal: Parameter 'userReg' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:67:	MethodArgumentCouldBeFinal: Parameter 'userReg' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:67:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:67:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:67:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:67:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:68:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '68'-'75').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:68:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '68'-'75').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:68:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '68'-'77').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:68:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '68'-'77').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:69:	LocalVariableCouldBeFinal: Local variable 'validator' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:69:	LocalVariableCouldBeFinal: Local variable 'validator' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:72:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'user' (lines '72'-'83').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:72:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'user' (lines '72'-'83').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:72:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:72:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:73:	LocalVariableCouldBeFinal: Local variable 'present' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:73:	LocalVariableCouldBeFinal: Local variable 'present' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:74:	SimplifyBooleanExpressions: Avoid unnecessary comparisons in boolean expressions
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:74:	SimplifyBooleanExpressions: Avoid unnecessary comparisons in boolean expressions
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:75:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'msg' (lines '75'-'83').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:75:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'msg' (lines '75'-'83').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:77:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'msg' (lines '77'-'83').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:77:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'msg' (lines '77'-'83').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:80:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:80:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:87:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:87:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:87:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:87:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:88:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'list' (lines '88'-'89').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:88:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'list' (lines '88'-'89').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:94:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:94:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:94:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:94:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:94:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:94:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:94:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:94:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:95:	LocalVariableCouldBeFinal: Local variable 'userObj' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:95:	LocalVariableCouldBeFinal: Local variable 'userObj' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:96:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'userObj'
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:96:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'userObj'
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:100:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:100:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:100:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:100:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:100:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:100:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:100:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:100:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:101:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '101'-'105').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:101:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '101'-'105').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:101:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '101'-'107').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:101:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '101'-'107').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:102:	LocalVariableCouldBeFinal: Local variable 'userObj' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:102:	LocalVariableCouldBeFinal: Local variable 'userObj' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:104:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:104:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:105:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:105:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:105:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:105:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:106:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:106:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:107:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:107:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:113:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:113:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:113:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:113:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:113:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:113:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:113:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:113:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:114:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '114'-'118').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:114:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '114'-'118').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:114:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '114'-'120').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:114:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '114'-'120').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:115:	LocalVariableCouldBeFinal: Local variable 'userObj' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:115:	LocalVariableCouldBeFinal: Local variable 'userObj' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:117:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:117:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:118:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:118:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:118:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:118:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:119:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:119:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:120:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:120:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:127:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:127:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:127:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:127:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:133:	LocalVariableCouldBeFinal: Local variable 'token' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:133:	LocalVariableCouldBeFinal: Local variable 'token' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:138:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:138:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:143:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:143:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:149:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:149:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:149:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:149:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:149:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:149:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:149:	UnusedPrivateMethod: Avoid unused private methods such as 'makeAdmin(Integer)'.
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:149:	UnusedPrivateMethod: Avoid unused private methods such as 'makeAdmin(Integer)'.
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:150:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '150'-'154').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:150:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '150'-'154').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:150:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '150'-'156').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:150:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'msg' (lines '150'-'156').
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:151:	LocalVariableCouldBeFinal: Local variable 'userObj' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:151:	LocalVariableCouldBeFinal: Local variable 'userObj' could be declared final
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:153:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:153:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:154:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:154:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:154:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:154:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:155:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:155:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:156:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/controller/RegistrationRestController.java:156:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/entry/InvalidAuthenticationEntryPoint.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/entry/InvalidAuthenticationEntryPoint.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/entry/InvalidAuthenticationEntryPoint.java:13:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/entry/InvalidAuthenticationEntryPoint.java:13:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/entry/InvalidAuthenticationEntryPoint.java:16:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/entry/InvalidAuthenticationEntryPoint.java:16:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/entry/InvalidAuthenticationEntryPoint.java:16:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/entry/InvalidAuthenticationEntryPoint.java:16:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/entry/InvalidAuthenticationEntryPoint.java:17:	MethodArgumentCouldBeFinal: Parameter 'authException' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/entry/InvalidAuthenticationEntryPoint.java:17:	MethodArgumentCouldBeFinal: Parameter 'authException' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/exception/UserRegException.java:2:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/exception/UserRegException.java:2:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/exception/UserRegException.java:25:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/exception/UserRegException.java:25:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/exception/UserRegException.java:30:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/exception/UserRegException.java:30:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:21:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:21:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:24:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:24:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:27:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:27:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:30:	MethodArgumentCouldBeFinal: Parameter 'filterChain' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:30:	MethodArgumentCouldBeFinal: Parameter 'filterChain' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:30:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:30:	MethodArgumentCouldBeFinal: Parameter 'request' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:30:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:30:	MethodArgumentCouldBeFinal: Parameter 'response' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:36:	LocalVariableCouldBeFinal: Local variable 'token' could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:36:	LocalVariableCouldBeFinal: Local variable 'token' could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:41:	LocalVariableCouldBeFinal: Local variable 'username' could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:41:	LocalVariableCouldBeFinal: Local variable 'username' could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:47:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:47:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:50:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:50:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:50:	LocalVariableCouldBeFinal: Local variable 'isValid' could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:50:	LocalVariableCouldBeFinal: Local variable 'isValid' could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:51:	AvoidDeeplyNestedIfStmts: Deeply nested if..then statements are hard to read
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:51:	AvoidDeeplyNestedIfStmts: Deeply nested if..then statements are hard to read
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:53:	LocalVariableCouldBeFinal: Local variable 'authentiaction' could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:53:	LocalVariableCouldBeFinal: Local variable 'authentiaction' could be declared final
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:54:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:54:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:54:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:54:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:54:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:54:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:59:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/filter/SecurityFilter.java:59:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:1:	PackageCase: Package name contains upper case characters
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:13:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:13:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:17:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:17:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:17:	ImmutableField: Private field 'secret' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:17:	ImmutableField: Private field 'secret' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:20:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:20:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:20:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:20:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:21:	LocalVariableCouldBeFinal: Local variable 'tokenUser' could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:21:	LocalVariableCouldBeFinal: Local variable 'tokenUser' could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:23:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:23:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:23:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:23:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:23:	UselessParentheses: Useless parentheses.
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:23:	UselessParentheses: Useless parentheses.
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:27:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:27:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:27:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:27:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:32:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:32:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:32:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:37:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:37:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:37:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:37:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:38:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:38:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:42:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:42:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:42:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:42:	MethodArgumentCouldBeFinal: Parameter 'token' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:44:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:44:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:50:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:50:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:50:	MethodArgumentCouldBeFinal: Parameter 'subject' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:50:	MethodArgumentCouldBeFinal: Parameter 'subject' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:58:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:58:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/jwtUtil/JWTUtil.java:60:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/model/CustomSequences.java:9:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/CustomSequences.java:9:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/CustomSequences.java:11:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/CustomSequences.java:11:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/CustomSequences.java:11:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/model/CustomSequences.java:11:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/model/CustomSequences.java:12:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/CustomSequences.java:12:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/CustomSequences.java:13:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/model/CustomSequences.java:13:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/model/User.java:19:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/User.java:19:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/User.java:19:	ShortClassName: Avoid short class names like User
+src/main/java/com/javafuns/epizy/model/User.java:19:	ShortClassName: Avoid short class names like User
+src/main/java/com/javafuns/epizy/model/User.java:22:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:22:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:24:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:24:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:24:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/model/User.java:24:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/model/User.java:26:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:26:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:28:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:28:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:30:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:30:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:32:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:32:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:34:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:34:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:35:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:35:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:36:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:36:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:37:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/User.java:37:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:10:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:10:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:12:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:12:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:13:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:13:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:14:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:14:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:15:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:15:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:16:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegReq.java:16:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegResp.java:6:	UnusedImports: Avoid unused imports such as 'lombok.NoArgsConstructor'
+src/main/java/com/javafuns/epizy/model/UserRegResp.java:6:	UnusedImports: Avoid unused imports such as 'lombok.NoArgsConstructor'
+src/main/java/com/javafuns/epizy/model/UserRegResp.java:7:	UnusedImports: Avoid unused imports such as 'lombok.NonNull'
+src/main/java/com/javafuns/epizy/model/UserRegResp.java:7:	UnusedImports: Avoid unused imports such as 'lombok.NonNull'
+src/main/java/com/javafuns/epizy/model/UserRegResp.java:8:	UnusedImports: Avoid unused imports such as 'lombok.RequiredArgsConstructor'
+src/main/java/com/javafuns/epizy/model/UserRegResp.java:8:	UnusedImports: Avoid unused imports such as 'lombok.RequiredArgsConstructor'
+src/main/java/com/javafuns/epizy/model/UserRegResp.java:14:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/UserRegResp.java:14:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/UserRegResp.java:16:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRegResp.java:16:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRequest.java:6:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/UserRequest.java:6:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/UserRequest.java:7:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRequest.java:7:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRequest.java:8:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserRequest.java:8:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserResponse.java:10:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/UserResponse.java:10:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/model/UserResponse.java:11:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserResponse.java:11:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserResponse.java:12:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/model/UserResponse.java:12:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/repo/UserRepo.java:6:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/repo/UserRepo.java:6:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/repo/UserRepo.java:7:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/repo/UserRepo.java:7:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:18:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:18:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:20:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:20:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:22:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:22:	MethodArgumentCouldBeFinal: Parameter 'seqName' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:22:	MethodArgumentCouldBeFinal: Parameter 'seqName' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:24:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:24:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:24:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:24:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:24:	LocalVariableCouldBeFinal: Local variable 'counter' could be declared final
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:24:	LocalVariableCouldBeFinal: Local variable 'counter' could be declared final
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:25:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:25:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:25:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:25:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:27:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/javafuns/epizy/sequence/NextSequenceService.java:27:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/javafuns/epizy/service/IUserService.java:7:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:7:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:9:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:9:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:10:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/IUserService.java:10:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/IUserService.java:10:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:10:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:11:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:11:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:12:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/IUserService.java:12:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/IUserService.java:12:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:12:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:13:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/IUserService.java:13:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/IUserService.java:13:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:13:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:14:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:14:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:14:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/IUserService.java:14:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/IUserService.java:14:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:14:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:15:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:15:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/IUserService.java:15:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/IUserService.java:15:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:15:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/main/java/com/javafuns/epizy/service/IUserService.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:16:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/service/IUserService.java:16:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/IUserService.java:16:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:28:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:28:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:28:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:28:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:32:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:32:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:32:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:32:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:35:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:35:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:35:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:35:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:38:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:38:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:38:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:38:	CommentRequired: Field comments are required
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:44:	MethodArgumentCouldBeFinal: Parameter 'seqName' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:44:	MethodArgumentCouldBeFinal: Parameter 'seqName' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:46:	LocalVariableCouldBeFinal: Local variable 'counter' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:46:	LocalVariableCouldBeFinal: Local variable 'counter' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:47:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:47:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:47:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:47:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:49:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:49:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:49:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:49:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:58:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:58:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:67:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:67:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:67:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:67:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:67:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:67:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:69:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:69:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:69:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:69:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:74:	LocalVariableCouldBeFinal: Local variable 'userObj' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:74:	LocalVariableCouldBeFinal: Local variable 'userObj' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:75:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'userObj'
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:75:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'userObj'
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:79:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:79:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:79:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:79:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:81:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:81:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:82:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:82:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:86:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:86:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:86:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:86:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:92:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:92:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:92:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:92:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:92:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:92:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:95:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:95:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:95:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:95:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:95:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:95:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:97:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:97:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:97:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:97:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:101:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:101:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:101:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:101:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:101:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:101:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:105:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:105:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:105:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:105:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:105:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:105:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:107:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:107:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:107:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:107:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:111:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:111:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:111:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:111:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:111:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:111:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:115:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:115:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:115:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:115:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:115:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:115:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:117:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:117:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:117:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:117:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:121:	AvoidUncheckedExceptionsInSignatures: A method or constructor should not explicitly declare unchecked exceptions in its 'throws' clause
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:121:	AvoidUncheckedExceptionsInSignatures: A method or constructor should not explicitly declare unchecked exceptions in its 'throws' clause
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:121:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:121:	MethodArgumentCouldBeFinal: Parameter 'username' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:123:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:123:	LocalVariableCouldBeFinal: Local variable 'user' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:125:	LocalVariableCouldBeFinal: Local variable 'authorities' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:125:	LocalVariableCouldBeFinal: Local variable 'authorities' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:126:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:126:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:126:	LocalVariableCouldBeFinal: Local variable 'role' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:126:	LocalVariableCouldBeFinal: Local variable 'role' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:133:	LocalVariableCouldBeFinal: Local variable 'usr' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:133:	LocalVariableCouldBeFinal: Local variable 'usr' could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:135:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:135:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:135:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:135:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:136:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'usr'
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:136:	UnnecessaryLocalBeforeReturn: Consider simply returning the value vs storing it in local variable 'usr'
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:143:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:143:	MethodArgumentCouldBeFinal: Parameter 'id' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:143:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:143:	MethodArgumentCouldBeFinal: Parameter 'user' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:143:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:143:	ShortVariable: Avoid variables with short names like id
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:147:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:147:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:147:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:147:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:147:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:147:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:149:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:149:	ControlStatementBraces: This statement should have braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:149:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/service/UserServiceImpl.java:149:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:2:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:2:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:28:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:28:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:28:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:28:	CommentRequired: Class comments are required
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:31:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:31:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:48:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:54:	LocalVariableCouldBeFinal: Local variable 'authorizationScope' could be declared final
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:54:	LocalVariableCouldBeFinal: Local variable 'authorizationScope' could be declared final
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:54:	LongVariable: Avoid excessively long variable names like authorizationScope
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:54:	LongVariable: Avoid excessively long variable names like authorizationScope
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:56:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'authorizationScopes' (lines '56'-'57').
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:56:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'authorizationScopes' (lines '56'-'57').
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:56:	LongVariable: Avoid excessively long variable names like authorizationScopes
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:56:	LongVariable: Avoid excessively long variable names like authorizationScopes
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:60:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/swagger/SwaggerConfiguration.java:60:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/validator/UserRegValidator.java:2:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/validator/UserRegValidator.java:2:	CommentSize: Comment is too large: Line too long
+src/main/java/com/javafuns/epizy/validator/UserRegValidator.java:20:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/javafuns/epizy/validator/UserRegValidator.java:20:	UnnecessaryConstructor: Avoid unnecessary constructors - the compiler will generate these for you
+src/main/java/com/javafuns/epizy/validator/UserRegValidator.java:29:	MethodArgumentCouldBeFinal: Parameter 'userRegReq' is not assigned and could be declared final
+src/main/java/com/javafuns/epizy/validator/UserRegValidator.java:29:	MethodArgumentCouldBeFinal: Parameter 'userRegReq' is not assigned and could be declared final
